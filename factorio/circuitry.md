@@ -1,3 +1,23 @@
+# Table of contents
+
+- [Table of contents](#table-of-contents)
+- [Digital electronics components](#digital-electronics-components)
+  - [D latch](#d-latch)
+  - [Shift register](#shift-register)
+- [Controllers](#controllers)
+  - [Schmitt trigger](#schmitt-trigger)
+  - [PID controller](#pid-controller)
+    - [Schematic](#schematic)
+    - [Tuning the parameters](#tuning-the-parameters)
+    - [Numerics](#numerics)
+    - [Example application](#example-application)
+- [Random number generation](#random-number-generation)
+  - [Linear Congruential Generator (LCG)](#linear-congruential-generator-lcg)
+    - [Truncation of predictable digits](#truncation-of-predictable-digits)
+    - [Circuit schematic](#circuit-schematic)
+    - [Applications](#applications)
+
+
 # Digital electronics components
 
 ## D latch
