@@ -16,7 +16,7 @@ triggered by a digital signal.
 
 The schematic is as follows:
 
-![](img/d-latch.png)
+![](img/circuitry/d-latch.png)
 
 The memory cell consists of the two logical combinators on the right: when the
 clock signal `C` is true, let the current value of `D` (`#` for »input count«)
@@ -59,7 +59,7 @@ bounded), and it doesn’t adapt to new circumstances.
 In Factorio, we can build a Schmitt trigger out of an RS latch (the purple
 part),
 
-![](img/schmitt.png)
+![](img/circuitry/schmitt.png)
 
 The on and off conditions should be mutually exclusive, since RS Nor latches
 have undefined behaviour when both inputs are enabled.
@@ -93,7 +93,7 @@ the system does exactly what we want.
 
 The PID controller shown in the schematic below follows the formula
 
-![](img/pid-formula.png)
+![](img/circuitry/pid-formula.png)
 
 We’ll talk about how to tune the parameters `P/Q`, `I/J` and `D/F` later, so at
 this point let’s just briefly mention that
@@ -109,7 +109,7 @@ In the schematic, coloured upper parts are the integral, differential and
 proportional units respectively, and below them are the cells to tune their
 output to achieve the desired feedback for the system.
 
-![](img/pid.png)
+![](img/circuitry/pid.png)
 
   - The purple integral unit feeds back into itself, and is equivalent to a
     memory cell for the `A` signal. Each tick, it is altered by adding a value
@@ -206,7 +206,7 @@ system for us.
 Who would have guessed, we can use a PID controller for that. Let’s see how that
 looks like and then discuss it!
 
-![](img/rate-limiter.jpg)
+![](img/circuitry/rate-limiter.jpg)
 
 The part of the belt that extends to the right is gated by two belt sensors. The
 lower one adds one to a counter when a blue circuit passes, the upper one
@@ -268,7 +268,7 @@ significant the bit, the less random it is due to LCG’s properties. For our
 period length of at most 2^i, which is quite terrible for a random number
 generator. Basically, the red parts of our output are not random at all,
 
-![](img/lcg-truncation.png)
+![](img/circuitry/lcg-truncation.png)
 
 We now have to take away as many digits on the right as possible, leaving us
 with good random numbers.
@@ -281,13 +281,13 @@ with good random numbers.
 
 Putting both the generator and the truncator in Factorio gives us
 
-![](img/lcg-circuit-schematic.png)
+![](img/circuitry/lcg-circuit-schematic.png)
 
 where the left part is our raw generator with feedback loop, and the right one
 truncates the not very random least significant n bit. And simple enough, in
 the game it looks like this:
 
-![](img/lcg-circuit-ingame.png)
+![](img/circuitry/lcg-circuit-ingame.png)
 
 ### Applications
 
