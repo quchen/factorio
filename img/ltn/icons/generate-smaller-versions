@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+set -euo pipefail
+
+convert original/*.png -set filename:f '%t' -resize '16x16' '16x16/%[filename:f].png'
