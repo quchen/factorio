@@ -45,9 +45,6 @@ The devs have been hiding so many hints at future features in the past FFFs, I d
    drills and manually from rocks
    [(#387)](https://factorio.com/blog/post/fff-387), and that Tungsten Carbide
    exists.
-1. More stackers? The ~~Bulk~~ Stack inserter is the only way to load belts with
-   stacked items [(#393)](https://factorio.com/blog/post/fff-393) except it’s
-   not (big mining drill in the same post).
 1. What is blue nuclear fuel shown in the _quality graph_ screenshot?
    [(#408)](https://www.factorio.com/blog/post/fff-408)
 1. We have not seen a single biter in any FFF since SA was announced!
