@@ -48,12 +48,13 @@ The devs have been hiding so many hints at future features in the past FFFs, I d
 1. What is the last planet like? The track in
    [(#406)](https://factorio.com/blog/post/fff-406) is not similar at all
    similar to Gleba’s music [(#413)](https://factorio.com/blog/post/fff-413).
-   [(#386)](https://factorio.com/blog/post/fff-386) says _we have at least one
+   [#386](https://factorio.com/blog/post/fff-386) says _we have at least one
    planet hotter and at least one planet colder than Nauvis_, and even though
-   Fulgora _is freezing cold_ [(398)](https://factorio.com/blog/post/fff-398) it
-   doesn’t feel that way. We can thus expect an ice/snow planet to come last.
-1. What is the meaning of gravity, magnetic field, pressure?
-   [(#397)](https://factorio.com/blog/post/fff-397) Gravity could affect rocket
+   Fulgora _is freezing cold_ [(#398)](https://factorio.com/blog/post/fff-398)
+   it doesn’t look or feel that way. We can thus expect an ice/snow planet to
+   come last.
+1. What is the meaning of gravity, magnetic field, pressure
+   [(#397)](https://factorio.com/blog/post/fff-397)? Gravity might affect rocket
    capacity [(#382)](https://factorio.com/blog/post/fff-382).
 
 # Answered
@@ -84,6 +85,12 @@ Assembler control [(#394)](https://factorio.com/blog/post/fff-394), wireless
 transmission via radars [(#402)](https://factorio.com/blog/post/fff-402),
 whole-belt readers [(#405)](https://factorio.com/blog/post/fff-405), target
 priorities [(#410)](https://factorio.com/blog/post/fff-410).
+
+> What is the last  planet called?
+
+The sheet of paper
+[(picture)](https://cdn.factorio.com/assets/blog-sync/fff-406-02.jpg) in
+[#406](https://factorio.com/blog/post/fff-406) names _Aquilo_.
 
 # Hacker zone
 
