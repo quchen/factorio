@@ -60,7 +60,7 @@ The devs have been hiding so many hints at future features in the past FFFs, I d
 
 > Byproducts: Why drop stone back into lava? Is there more nuance to byproduct
 > handling on Vulcanus? Source: the _Jerzy had a good time_ video in
-> [(#387)](https://factorio.com/blog/post/fff-387)
+> [#387](https://factorio.com/blog/post/fff-387)
 
 Probably just easy voiding for infinite resources with byproducts. Vulcanus has
 infinite lava, but no stone. Stone as a byproduct might be desirable to pave the
