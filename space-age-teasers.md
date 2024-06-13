@@ -1,20 +1,24 @@
+# What is this wall of text?!
+
 The devs have been hiding so many hints at future features in the past FFFs, I decided to collect a couple.
 
 # Open questions
 
 ## Explicit teasers
 
-> we still haven't shown what you could unlock with the Metallurgic science pack [(#387)](https://factorio.com/blog/post/fff-387)
+> we still haven't shown what you could unlock with the Metallurgic science pack
+> [(#387)](https://factorio.com/blog/post/fff-387)
 
 > [(Picture)](https://cdn.factorio.com/assets/blog-sync/fff-397-foundry.png)
 > Tungsten carbide in Factoriopedia, along with some form of dark/violet sheet
 > and I-beam [(#397)](https://factorio.com/blog/post/fff-397)
 
-> _you can still […] stockpile the silos manually, […] basically required in
-> some of the yet-undisclosed Space Age content_
+> you can still […] stockpile the silos manually, […] basically required in
+> some of the yet-undisclosed Space Age content
 > [(#381)](https://factorio.com/blog/post/fff-381)
 
-> It will require the end-game resources [(#376)](https://factorio.com/blog/post/fff-376)
+> It will require the end-game resources
+> [(#376)](https://factorio.com/blog/post/fff-376)
 
 > There is another part […] where [turret] target filtering will play a crucial
 > role [(#410)](https://factorio.com/blog/post/fff-410)
@@ -22,6 +26,13 @@ The devs have been hiding so many hints at future features in the past FFFs, I d
 > [Interrupt in Interrupt] is a crucial thing to have, but it is on a planet we
 > didn't reveal yet [(#389)](https://factorio.com/blog/post/fff-389). (Vulcanus
 > and Fulgora were already revealed when this was posted.)
+
+> Bringing the Foundry back home to Nauvis […] feels very rewarding because […]
+> you can start distributing molten iron and copper
+> [(#387)](https://factorio.com/blog/post/fff-387)
+
+> mysterious material we call Bioflux
+> [(#414)](https://www.factorio.com/blog/post/fff-414)
 
 ## Between the lines
 
@@ -56,6 +67,7 @@ The devs have been hiding so many hints at future features in the past FFFs, I d
 1. What is the meaning of gravity, magnetic field, pressure
    [(#397)](https://factorio.com/blog/post/fff-397)? Gravity might affect rocket
    capacity [(#382)](https://factorio.com/blog/post/fff-382).
+1. How do we get molten copper/iron without lava lakes? (Last video in [#409](https://factorio.com/blog/post/fff-409))
 
 # Answered
 
@@ -91,6 +103,14 @@ priorities [(#410)](https://factorio.com/blog/post/fff-410).
 The sheet of paper
 [(picture)](https://cdn.factorio.com/assets/blog-sync/fff-406-02.jpg) in
 [#406](https://factorio.com/blog/post/fff-406) names _Aquilo_.
+
+> Quality upgrading: we know higher quality ingredients increase chances of
+> quality products. How does this work for multi-ingredient recipes?
+
+Any-quality recipes take any ingredient and treat it as quality 1. Assemblers
+can be set to producing quality 3, but then they require exactly quality 3
+ingredients, and output quality 3 results (plus possible quality upgrades with
+quality modules).
 
 # Hacker zone
 
