@@ -1,5 +1,8 @@
 # Achievement ideas
 
+- `n` is for tiered achievements in a suitable range. `10ⁿ` means there’s a 100,
+  1k, 10k version of the achievement, for example.
+
 Production
 ----------
 
