@@ -84,3 +84,6 @@ Fun
 - **I want a refund:** Try to place landfill on a surface that requires improved
   landfill
 - **Because I can:** Launch a legendary satellite, from a legendary rocket silo
+- **'tis but a scratch:** Travel to another planet without building a gun
+  turret, laser turret, or rocket launcher on the platform.
+- **Nobody can hear you scream:** Die in space.
