@@ -117,4 +117,4 @@ quality modules).
 Quick and dirty search for similar mentions :-)
 
     for i in {373..413}; do curl "https://factorio.com/blog/post/fff-$i" > "fff-$i.html"; done
-    rg '(an)?other (time|fff|day|week)|(un)?disclosed?|future|for now' --threads 1 --ignore-case
+     rg '(an)?other (time|fff|day|week)|(un)?disclosed?|future|for now' --threads 1 --ignore-case
