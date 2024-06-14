@@ -16,7 +16,8 @@ Production
 - Quality
     - Create a legendary Mk3 module
     - **Build it for life:** Create 10ⁿ quality {2..5} items in one hour
-    - Win the game without using any quality modules
+    - **Sticking to your quality:** Win the game without using any quality
+      modules
 - Space platforms
     - Have 2ⁿ at the same time
     - **Orbital pollution:** Have 2ⁿ in orbit around a single planet
@@ -24,10 +25,10 @@ Production
     - **Not a scratch:** Travel to another planet without taking damage from any
       {small, medium, large, huge} asteroid
 -  Vulcanus
-    - Mine more than a green belt worth of tungsten ore at the same time (60/s)
+    - Mine more than a green belts worth of tungsten ore at the same time (60/s)
     - **Heavy litter:** Throw 10ⁿ items into lava
 - Gleba
-    - Don’t let any fruit spoil for 2ⁿ hours
+    - **Hand to factory:** Don’t let any fruit spoil for 2ⁿ hours
 
 
 
@@ -38,8 +39,8 @@ Building
   Nauvis
 - **I’ll do what I want:** Set up nuclear power on a planet that has neither
   water nor Uranium naturally
-- Have a single building affected by 12 beacons
-- Have 2ⁿ different electricity networks on one planet
+- **Fully vested:** Have a single building affected by 12 beacons
+- **Patchwork power:** Have 2ⁿ different electricity networks on one planet
 - **The floor is lava:** Build an elevated rail track longer than 1000 tiles
 - Space platforms
     - **Bigger on the surface:** Build one with 2ⁿ tiles
@@ -82,3 +83,4 @@ Fun
 - Carry at least one of each spoilable items in your inventory at the same time
 - **I want a refund:** Try to place landfill on a surface that requires improved
   landfill
+- **Because I can:** Launch a legendary satellite, from a legendary rocket silo
