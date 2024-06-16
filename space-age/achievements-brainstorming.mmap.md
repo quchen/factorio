@@ -42,7 +42,10 @@ Building
 - **Fully vested:** Have a single building affected by 12 beacons
 - **Patchwork power:** Have 2ⁿ different electricity networks on one planet
 - **The floor is lava:** Build an elevated rail track longer than 1000 tiles
+- **Stubborn bastard:** deconstruct less than 10 entities before a rocket
 - Space platforms
+    - **Get outta here:** Build your first space platform above {Nauvis,
+      Vulcanus, Gleba, Fulgora, Aquilo}
     - **Bigger on the surface:** Build one with 2ⁿ tiles
     - **Gotta go fast:** More than 2ⁿ engines
     - **Lost my keys:** More than 2ⁿ grabbers
@@ -87,3 +90,17 @@ Fun
 - **'tis but a scratch:** Travel to another planet without building a gun
   turret, laser turret, or rocket launcher on the platform.
 - **Nobody can hear you scream:** Die in space.
+- **Metal Gear? It can't be!:** Make a Spidertron fire a nuclear missile
+- **Extreme Defense:** Have a missile turret fire a nuclear missile
+- **Gotta go fast:** Run with your speed going above 200% for 20 seconds
+- **Great Scott!:** Have a car reaching the highest speed possible
+- **Peek-a-boo!:** (hidden achievement) By dragging the main menu from it's
+  position, find the hidden Spidertron and its mini Spidertrons
+- **Lost contact:** Experience a blackout on a different planet from which you
+  are on
+- **There were no complaints:** Pollute n chunks without triggering a biter
+  attack
+- **Full Remote:** finish the game without visiting each planet more than once
+- **Sushi enthusiast:** Eat X number of fish
+- **Tower Defence:** Have X number of turrets firing at biters at once
+- **Spare parts:** Recycle the crashed space ship
