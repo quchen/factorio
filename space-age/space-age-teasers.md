@@ -27,12 +27,11 @@ The devs have been hiding so many hints at future features in the past FFFs, I d
 > didn't reveal yet [(#389)](https://factorio.com/blog/post/fff-389). (Vulcanus
 > and Fulgora were already revealed when this was posted.)
 
-> Bringing the Foundry back home to Nauvis […] feels very rewarding because […]
-> you can start distributing molten iron and copper
-> [(#387)](https://factorio.com/blog/post/fff-387)
-
 > mysterious material we call Bioflux
 > [(#414)](https://www.factorio.com/blog/post/fff-414)
+
+> one more building typically combined with foundry and electromagnetic plants
+> [(#417)](https://www.factorio.com/blog/post/fff-417)
 
 ## Between the lines
 
@@ -112,11 +111,16 @@ can be set to producing quality 3, but then they require exactly quality 3
 ingredients, and output quality 3 results (plus possible quality upgrades with
 quality modules).
 
+> Can we melt copper/iron on other planets?
+
+Foundries can melt ore with calcite, for example seen in
+[#417](https://factorio.com/blog/post/fff-417).
+
 # Hacker zone
 
 Quick and dirty search for similar mentions :-)
 
 ```
-for i in {373..413}; do curl "https://factorio.com/blog/post/fff-$i" > "fff-$i.html"; done
+for i in {373..418}; do curl "https://factorio.com/blog/post/fff-$i" > "fff-$i.html"; done
 rg '(an)?other (time|fff|day|week)|(un)?disclosed?|future|for now' --threads 1 --ignore-case
 ```
